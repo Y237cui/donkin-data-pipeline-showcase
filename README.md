@@ -6,6 +6,16 @@
 
 > **Portfolio overview, not the production repository.** This page summarizes my contributions during an internship. It does not contain proprietary source code, datasets, credentials, or internal infrastructure details. This is an independent portfolio description, not an official Zeuspace or Donkin.ai repository.
 
+## Portfolio navigation
+
+My work spans statistical modeling, machine learning evaluation, and data engineering:
+
+- [Satellite Telemetry Anomaly Detection & Event-Level Evaluation](https://github.com/Y237cui/satellite-anomaly-detection-research)
+- [Toronto Home-Price Prediction — Error Analysis & Statistical Evaluation](https://github.com/Y237cui/toronto-home-price-analysis)
+- [Interactive NBA Career Analytics — R Shiny](https://github.com/Y237cui/nba-career-analytics-r-shiny)
+
+**Target roles:** Data Scientist · Data / Analytics Engineer · Risk Analytics · Quantitative Analytics
+
 ## Project overview
 
 I worked on backend data infrastructure supporting a cryptocurrency market and community monitoring platform. The work involved integrating information from multiple external sources and organizing noisy, frequently updated records for downstream analytics. The platform monitored approximately **500 tokens**, with market-data updates on the order of **30–60 seconds**.
